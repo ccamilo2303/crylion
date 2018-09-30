@@ -1,0 +1,7 @@
+{
+  "name": "crilyon",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
